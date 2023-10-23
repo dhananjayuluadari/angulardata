@@ -1,39 +1,39 @@
 {
-    "mobiles": [
-        {
-            "id": "1",
-            "name": "Samsung Galaxy M55",
-            "price": 46000,
-            "ram": "8gb",
-            "storage": "128gb"
-        },
-        {
-            "id": "2",
-            "name": "real me 5 pro",
-            "price": 25000,
-            "ram": "16gb",
-            "storage": "64gb"
-        },
-        {
-            "id": "3",
-            "name": "real me 8 pro",
-            "price": 18500,
-            "ram": "8gb",
-            "storage": "64gb"
-        },
-        {
-            "id": "4",
-            "name": "Vivo Y20T",
-            "price": 19500,
-            "ram": "6gb",
-            "storage": "64gb"
-        },
-        {
-            "id": "5",
-            "name": "Xiaomi 11T",
-            "price": 37000,
-            "ram": "8gb",
-            "storage": "256gb"
-        }
-    ]
+  "mobiles":  [
+    {
+	  "id": 1,
+      "name": "Samsung Galaxy M55",
+      "price": 46000,
+      "ram": "8gb",
+      "storage": "128gb"
+    },
+    {
+	  "id": 2,
+      "name": "real me 5 pro",
+      "price": 25000,
+      "ram": "16gb",
+      "storage": "64gb"
+    },
+    {
+	  "id": 3,
+      "name": "real me 8 pro",
+      "price": 18500,
+      "ram": "8gb",
+      "storage": "64gb"
+    },
+    {
+	  "id": 4,
+      "name": "Vivo Y20T",
+      "price": 19500,
+      "ram": "6gb",
+      "storage": "64gb"
+    },
+    {
+	  "id": 5,
+      "name": "Xiaomi 11T",
+      "price": 37000,
+      "ram": "8gb",
+      "storage": "256gb"
+    }
+  ]
 }
